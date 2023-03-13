@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 3ed26f41c76b3554d847240ddfa05ce0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 828
+        width: 272
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96410320046cc7a4ea9efff0f4992b7e
+      internalID: 1133373308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 828
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89320db660b8794f8fa7501e7d76436
+      internalID: 224242791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 828
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76fb725ad39dea458ced09570eb8f7d
+      internalID: -1804683561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 828
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5c21f7d84baa14f958b2fa823d1379
+      internalID: -118165352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 627
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a7301026261b545a3ba2ead4ef9d4b
+      internalID: -865192321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 627
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e452b8c27b6a249a3873a3477d7cdf
+      internalID: -849658501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 627
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a60b6e1a68ed9a4dac264206e75a706
+      internalID: -932838056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 627
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50954608338b5984293d91f415d5131a
+      internalID: -1884836951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0bc7b5b4ccafd40a458e8b627498e9
+      internalID: -1089306030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 426
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcf3fb23d743a74dbcd3f99dd068f2f
+      internalID: 633290211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_10
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 426
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae673f7a6c8b8c948ac4f152aceeb4dd
+      internalID: -310795898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 426
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56ec6f15b2bfe046860371decc305c6
+      internalID: 1400196503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51fcde03b6a16940abb37c95899e9fc
+      internalID: 154778924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_13
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 225
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342ac62b879066249ab9854b2411b394
+      internalID: -2022806608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_14
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 225
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8889e32c1c6a5e34f9512eb0bac95d50
+      internalID: -47826647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_15
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 225
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e4bae4a633cac4c819a49e27ff3d64
+      internalID: -1499627736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a961a0d1a64e1429f791ec37fce026
+      internalID: -1489987908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_17
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 24
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebce4c43624e1e498fab52e46e9b59b
+      internalID: -1722947074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_18
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 24
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef754ae8433cc7488987ea3d61a6fc9
+      internalID: 1522920534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Ranger - Backgrounds 1_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 24
+        width: 272
+        height: 200
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e899a155d0e2fb4d99de7483d4017d1
+      internalID: 53414236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Ranger - Backgrounds 1_7: -1884836951
+      DS DSi - Pokemon Ranger - Backgrounds 1_12: 154778924
+      DS DSi - Pokemon Ranger - Backgrounds 1_1: 224242791
+      DS DSi - Pokemon Ranger - Backgrounds 1_10: -310795898
+      DS DSi - Pokemon Ranger - Backgrounds 1_17: -1722947074
+      DS DSi - Pokemon Ranger - Backgrounds 1_5: -849658501
+      DS DSi - Pokemon Ranger - Backgrounds 1_4: -865192321
+      DS DSi - Pokemon Ranger - Backgrounds 1_8: -1089306030
+      DS DSi - Pokemon Ranger - Backgrounds 1_15: -1499627736
+      DS DSi - Pokemon Ranger - Backgrounds 1_2: -1804683561
+      DS DSi - Pokemon Ranger - Backgrounds 1_14: -47826647
+      DS DSi - Pokemon Ranger - Backgrounds 1_6: -932838056
+      DS DSi - Pokemon Ranger - Backgrounds 1_9: 633290211
+      DS DSi - Pokemon Ranger - Backgrounds 1_11: 1400196503
+      DS DSi - Pokemon Ranger - Backgrounds 1_19: 53414236
+      DS DSi - Pokemon Ranger - Backgrounds 1_13: -2022806608
+      DS DSi - Pokemon Ranger - Backgrounds 1_3: -118165352
+      DS DSi - Pokemon Ranger - Backgrounds 1_16: -1489987908
+      DS DSi - Pokemon Ranger - Backgrounds 1_0: 1133373308
+      DS DSi - Pokemon Ranger - Backgrounds 1_18: 1522920534
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
